@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-calculate-tax/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/test-calculate-tax/static/js/main.09f65f7d.chunk.js",
+    "main.js.map": "/test-calculate-tax/static/js/main.09f65f7d.chunk.js.map",
+    "runtime-main.js": "/test-calculate-tax/static/js/runtime-main.7db92f72.js",
+    "runtime-main.js.map": "/test-calculate-tax/static/js/runtime-main.7db92f72.js.map",
+    "static/js/2.2d3017a7.chunk.js": "/test-calculate-tax/static/js/2.2d3017a7.chunk.js",
+    "static/js/2.2d3017a7.chunk.js.map": "/test-calculate-tax/static/js/2.2d3017a7.chunk.js.map",
+    "static/js/3.3e202f2e.chunk.js": "/test-calculate-tax/static/js/3.3e202f2e.chunk.js",
+    "static/js/3.3e202f2e.chunk.js.map": "/test-calculate-tax/static/js/3.3e202f2e.chunk.js.map",
+    "index.html": "/test-calculate-tax/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/test-calculate-tax/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2d3017a7.chunk.js.LICENSE.txt": "/test-calculate-tax/static/js/2.2d3017a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db92f72.js",
+    "static/js/2.2d3017a7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.09f65f7d.chunk.js"
+  ]
+}
